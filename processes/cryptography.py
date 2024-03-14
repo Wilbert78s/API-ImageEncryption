@@ -32,7 +32,7 @@ def encrypt(plain_img, a, b, x0, a0, x1, a1, prime, k1, k2):
         'height':height,
         'width':width,
         'hash':hashing,
-        'image':p6
+        'image':p6,
     }
     return res
 
